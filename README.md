@@ -1,5 +1,5 @@
 # HOSTED LINK 
-[fascinating-strudel-6242f0.netlify.app](https://rishi4140.github.io/React-EcommerceApp/)
+https://rishi4140.github.io/React-EcommerceApp/
 
 
 # HOW TO RUN THE PROJECT
