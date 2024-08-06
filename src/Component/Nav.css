@@ -1,0 +1,24 @@
+.navbar .nav-link:hover {
+  color: #ffb3c1;
+}
+
+.icon-wrapper:hover img {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-toggler-icon {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/1828/1828859.png");
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
